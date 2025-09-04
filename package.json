@@ -1,0 +1,8 @@
+{
+    "name": "com.akanyatech.gameframework",
+    "version": "0.0.1",
+    "displayName": "AkanyaTech.GameFramework",
+    "description": "",
+    "unity": "2019.1",
+    "dependencies": {}
+}
